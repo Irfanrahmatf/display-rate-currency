@@ -12,10 +12,9 @@
   .env
 ```
 
-## Live Demo
+## Preview
 
-live demo of this project:  
-[Live Demo]()
+![Display Rate Currency](./src/assets/images/Screenshot%202024-11-13%20110104.png)
 
 ## Author
 
